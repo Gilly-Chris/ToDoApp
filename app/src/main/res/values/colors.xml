@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_200">#bc477b</color>
+    <color name="primary_500">#880e4f</color>
+    <color name="primary_700">#560027</color>
+    <color name="secondary_200">#8e99f3</color>
+    <color name="secondary_500">#5c6bc0</color>
+    <color name="secondary_700">#26418f</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGray">#E6E6E6</color>
+    <color name="darkGray">#4B4B4B</color>
+    <color name="red">#FF4646</color>
+    <color name="yellow">#FFC114</color>
+    <color name="green">#00C980</color>
+</resources>
