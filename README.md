@@ -25,10 +25,10 @@ An Android Animation library which easily add itemanimator to RecyclerView items
 <br>
 
 #screenshots
-<span><img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100608.png" width="120"></span>
-<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100635.png" width="120">
-<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100726.png" width="120">
-<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100758.png" width="120">
-<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100925.png" width="120">
-<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100930.png" width="120">
-<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100936.png" width="120">
+<span><img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100608.png" width="180"></span>
+<span><img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100635.png" width="180"></span>
+<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100726.png" width="180">
+<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100758.png" width="180">
+<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100925.png" width="180">
+<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100930.png" width="180">
+<img src="https://github.com/Gilly-Chris/ToDoApp/blob/master/screenshots/Screenshot_20220731-100936.png" width="180">
